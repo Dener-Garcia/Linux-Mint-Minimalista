@@ -31,7 +31,7 @@ Ao final seu tema deve ser parecido com o da imagem abaixo:
 
 A ídeia aqui é deixar seu linux com um visual bonito e diferenciado, espero que gostem das modificações no visual.
 
-### Você pode ver como configurei esse setup no Youtube:
+### Você pode ver como configurei esse setup no Youtube também:
 
 
 <div align="center">
